@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "eugene-debs-hartke",
+    "name": "Eugene Debs Hartke",
+    "epithet": "Vietnam vet, then professor, then prison teacher — who talli",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Eugene Debs Hartke:HPC:0ee11a⟧"
+  },
+  {
+    "slug": "tarkington-college",
+    "name": "Tarkington College",
+    "epithet": "A college for the learning-disabled children of the wealthy ",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Tarkington College:HPC:a2c39b⟧"
+  },
+  {
+    "slug": "the-athena-prison",
+    "name": "The Athena Prison",
+    "epithet": "The Japanese-corporation-run private prison across the froze",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Athena Prison:HPC:3d96e6⟧"
+  },
+  {
+    "slug": "the-prison-break",
+    "name": "The Prison Break",
+    "epithet": "The mass escape — inmates cross the ice, seize the college t",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Prison Break:HPC:891757⟧"
+  },
+  {
+    "slug": "griottm",
+    "name": "GRIOT™",
+    "epithet": "A program that predicts a whole life from demographic inputs",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦GRIOT™:HPC:7eff24⟧"
+  },
+  {
+    "slug": "hiroshi-matsumoto",
+    "name": "Hiroshi Matsumoto",
+    "epithet": "The Japanese warden of the Athena prison, and Hartke's uneas",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Hiroshi Matsumoto:HPC:b47792⟧"
+  }
+]
