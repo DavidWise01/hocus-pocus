@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "Hocus pocus: the magic words a country says over its own ideals to make them disappear.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 917,
+    "prev": "ecf81a1ca55164e87554f0c05a159eb285fed4ca35ba96907a0fb91f25ef0d93",
+    "link": "384e041bdac7684468b8653d6679ea8e45faad72d5f12013ee6c4d875ae28f43",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
